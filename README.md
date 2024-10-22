@@ -7,9 +7,9 @@ The purpose of this project is to demonstrate how an HTTP server can be made wit
 #### How to Run and Install
 ***This project was made to be demonstrated on the Ubantu environment***
 ***Make sure you have python 3+ installed***
-1.Download the httpServer.py file.
-2.Open up a terminal.
-3.Run the program with: "python3 httpServer.py".
+1. Download the httpServer.py file.
+2. Open up a terminal.
+3. Run the program with: "python3 httpServer.py".
 
 #### How to Use The Server
 With any browser go to localhost:8000.
